@@ -1,0 +1,38 @@
+[
+    {
+        "location": "Hanoi",
+        "time": "Monday, 17. Apr",
+        "weather": "Mostly Cloudy",
+        "temperature": "min.24\u00b0C"
+    },
+    {
+        "location": "Da Nang",
+        "time": "Monday, 17. Apr",
+        "weather": "Partly Cloudy",
+        "temperature": "min.25\u00b0C"
+    },
+    {
+        "location": "Ho Chi Minh City",
+        "time": "Monday, 17. Apr",
+        "weather": "Partly Cloudy",
+        "temperature": "min.27\u00b0C"
+    },
+    {
+        "location": "Ho Chi Minh City",
+        "time": "Monday, 17. Apr",
+        "weather": "Partly Cloudy",
+        "temperature": "min.27\u00b0C"
+    },
+    {
+        "location": "Hanoi",
+        "time": "Monday, 17. Apr",
+        "weather": "Mostly Cloudy",
+        "temperature": "min.24\u00b0C"
+    },
+    {
+        "location": "Da Nang",
+        "time": "Monday, 17. Apr",
+        "weather": "Partly Cloudy",
+        "temperature": "min.25\u00b0C"
+    }
+]

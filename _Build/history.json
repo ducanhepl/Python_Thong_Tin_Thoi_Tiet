@@ -1,0 +1,20 @@
+[
+    {
+        "location": "Da Nang",
+        "time": "Tuesday, 13. Sep",
+        "weather": "PM Thunderstorms",
+        "temperature": "25\u00b0C"
+    },
+    {
+        "location": "Ho Chi Minh City",
+        "time": "Tuesday, 13. Sep",
+        "weather": "Thunderstorms",
+        "temperature": "25\u00b0C"
+    },
+    {
+        "location": "Hanoi",
+        "time": "Tuesday, 13. Sep",
+        "weather": "Partly Cloudy",
+        "temperature": "25\u00b0C"
+    }
+]
